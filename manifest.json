@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Rastgele Mem Üretici",
+    "version": "1.0",
+    "description": "Rastgele komik mem'ler üreten uzantı",
+    "permissions": [
+      "activeTab",
+      "clipboardWrite"
+    ],
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "content_security_policy": {
+      "extension_pages": "script-src 'self'; object-src 'self';"
+    }
+  }
