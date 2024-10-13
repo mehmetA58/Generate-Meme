@@ -43,9 +43,9 @@ Bu uzantı HTML, CSS ve JavaScript kullanılarak geliştirilmiştir. Manifest V3
 Projeye katkıda bulunmak isterseniz:
 
 1. Bu repoyu forklayın.
-2. Yeni bir branch oluşturun (`git checkout -b yeni-ozellik`)
-3. Değişikliklerinizi commit edin (`git commit -am 'Yeni özellik: Açıklama'`)
-4. Branch'inizi push edin (`git push origin yeni-ozellik`)
+2. Yeni bir branch oluşturun (`git checkout -b newfeature`)
+3. Değişikliklerinizi commit edin (`git commit -m 'description'`)
+4. Branch'inizi push edin (`git push origin newfeature`)
 5. Bir Pull Request oluşturun
 
 ## Lisans
